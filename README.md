@@ -1,6 +1,6 @@
 # UX Portfolio
 
-![A photo of me sitting on a couch](/assets/face.png)
+![A photo of me sitting on a couch](assets/face.png)
 
 Welcome to my portfolio! My name is Ian Stewart. I'm a senior at CSU Chico. My areas of interest are cryptography and backend development. Outside of school, I enjoy reading and playing guitar.
 
